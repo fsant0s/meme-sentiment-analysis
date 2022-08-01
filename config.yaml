@@ -1,0 +1,18 @@
+SEED: 2 
+
+PATH_TO_IMAGES: "/datasets/images/"   
+PATH_TO_IMAGES_MULTIMODAL: "/datasets/images-multimodal/"   
+
+PATH_TO_TRAIN_DS_RAW     : "/datasets/raw/train.csv"
+PATH_TO_TEST_DS_RAW      : "/datasets/raw/test.csv"
+
+PATH_TO_TRAIN_DS_PROCESSED     : "/datasets/processed/train.csv"
+PATH_TO_TEST_DS_PROCESSED      : "/datasets/processed/test.csv"
+
+PATH_TO_EXTRACTED_FEATURES: "/datasets/extracted-features/"
+
+PATH_TO_MODELS: "/meme-sentiment-analysis/models/saved/models/"
+
+PATH_TO_WEIGHTS: "/meme-sentiment-analysis/models/saved/weights/"
+
+ROOT_DIR: B:\utils\Documentos\MDC\projeto_final\meme-sentiment-analysis
